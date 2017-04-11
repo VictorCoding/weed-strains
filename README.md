@@ -1,1 +1,1 @@
-"# weed-strains" 
+# weed-strains
